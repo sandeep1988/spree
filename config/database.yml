@@ -16,11 +16,11 @@ development:
 #   username: postgres
 #   password: postgres
 
-# production:
-#   adapter: postgresql
-#   encoding: unicode
-#   host: localhost
-#   database: shopqi_db
-#   pool: 5
-#   username: postgres
-#   password: postgres 
+production:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: spree_db_test2
+  pool: 5
+  username: postgres
+  password: postgres 
